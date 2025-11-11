@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "name": "Bulbasaur",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "stats": {
+            "hp": 45,
+            "attack": 49,
+            "defense": 49,
+            "special-attack": 65,
+            "special-defense": 65,
+            "speed": 45
+        },
+        "moves": [
+            {
+                "name": "Vine whip",
+                "power": 45,
+                "type": "Grass",
+                "category": "physical"
+            },
+            {
+                "name": "Tackle",
+                "power": 40,
+                "type": "Normal",
+                "category": "physical"
+            },
+            {
+                "name": "Growl",
+                "power": null,
+                "type": "Normal",
+                "category": "status"
+            },
+            {
+                "name": "Leech seed",
+                "power": null,
+                "type": "Grass",
+                "category": "status"
+            }
+        ],
+        "sprite_front": "c:\\Users\\sergi\\Documents\\GitHub\\pokemon\\data\\sprites\\1bulbasaur_front.gif",
+        "sprite_back": "c:\\Users\\sergi\\Documents\\GitHub\\pokemon\\data\\sprites\\1bulbasaur_back.gif"
+    },
+    {
+        "id": 4,
+        "name": "Charmander",
+        "type": [
+            "Fire"
+        ],
+        "stats": {
+            "hp": 39,
+            "attack": 52,
+            "defense": 43,
+            "special-attack": 60,
+            "special-defense": 50,
+            "speed": 65
+        },
+        "moves": [
+            {
+                "name": "Scratch",
+                "power": 40,
+                "type": "Normal",
+                "category": "physical"
+            },
+            {
+                "name": "Leer",
+                "power": null,
+                "type": "Normal",
+                "category": "status"
+            },
+            {
+                "name": "Growl",
+                "power": null,
+                "type": "Normal",
+                "category": "status"
+            },
+            {
+                "name": "Ember",
+                "power": 40,
+                "type": "Fire",
+                "category": "special"
+            }
+        ],
+        "sprite_front": "c:\\Users\\sergi\\Documents\\GitHub\\pokemon\\data\\sprites\\4charmander_front.gif",
+        "sprite_back": "c:\\Users\\sergi\\Documents\\GitHub\\pokemon\\data\\sprites\\4charmander_back.gif"
+    },
+    {
+        "id": 7,
+        "name": "Squirtle",
+        "type": [
+            "Water"
+        ],
+        "stats": {
+            "hp": 44,
+            "attack": 48,
+            "defense": 65,
+            "special-attack": 50,
+            "special-defense": 64,
+            "speed": 43
+        },
+        "moves": [
+            {
+                "name": "Tackle",
+                "power": 40,
+                "type": "Normal",
+                "category": "physical"
+            },
+            {
+                "name": "Tail whip",
+                "power": null,
+                "type": "Normal",
+                "category": "status"
+            },
+            {
+                "name": "Bite",
+                "power": 60,
+                "type": "Dark",
+                "category": "physical"
+            },
+            {
+                "name": "Water gun",
+                "power": 40,
+                "type": "Water",
+                "category": "special"
+            }
+        ],
+        "sprite_front": "c:\\Users\\sergi\\Documents\\GitHub\\pokemon\\data\\sprites\\7squirtle_front.gif",
+        "sprite_back": "c:\\Users\\sergi\\Documents\\GitHub\\pokemon\\data\\sprites\\7squirtle_back.gif"
+    }
+]
